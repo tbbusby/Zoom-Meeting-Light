@@ -1,0 +1,13 @@
+{
+    "payload": {
+      "account_id": "2SX4i7WTQwa6KzRJWQstzw",
+      "object": {
+        "presence_status": "Do_Not_Disturb",
+        "date_time": "2022-11-29T22:53:32Z",
+        "id": "l8hirdpwrvq5pml-n35iig",
+        "email": "trevan@trevanbusby.com"
+      }
+    },
+    "event_ts": 1669762412353,
+    "event": "user.presence_status_updated"
+  }
